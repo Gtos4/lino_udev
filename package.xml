@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>lino_udev</name>
+  <name>gvac_udev</name>
   <version>0.0.1</version>
-  <description>udev rule creator for linorobot</description>
+  <description>udev rule creator for gvacrobot</description>
 
   <maintainer email="jimenojmm@gmail.com">Juan Jimeno</maintainer>
 
